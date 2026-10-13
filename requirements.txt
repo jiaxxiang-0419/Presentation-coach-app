@@ -1,0 +1,7 @@
+streamlit
+requests
+python-pptx
+PyMuPDF
+Pillow
+pandas
+streamlit-mic-recorder
